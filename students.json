@@ -1,0 +1,29 @@
+[
+    {
+        "first_name": "Shiraz",
+        "last_name": "Shamai",
+        "email": "shiraz.shamai@e.braude.ac.il",
+        "courses": [
+            "Cloud Computing",
+            "WEB",
+            "Intro to AI",
+            "Data Mining",
+            "Compiler Theory",
+            "Ethics & AI"
+        ],
+        "link": "https://www.google.com",
+        "favorite_show": "friends"
+    },
+    {
+        "first_name": "Yael",
+        "last_name": "Wroblevsky",
+        "email": "Yael.Wroblevsky@e.braude.ac.il",
+        "courses": [
+            "Cloud Computing",
+            "WEB",
+            "Probability",
+            "Algorithms"
+        ],
+        "link": "https://w3.braude.ac.il/"
+    }
+]
